@@ -1,0 +1,9 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    color: slategray;   
+}
+article{
+    width:75%;
+    float: left;
+}
