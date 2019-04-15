@@ -17,4 +17,5 @@
  <Figura 2. Diseño de un sitio web con base a dos columnas>
  
  ![Estructura](https://aprende-web.net/css/objetos/diseno2.gif)
+ Figura 3. Diseño de un sitio web con base a tres columnas
  
