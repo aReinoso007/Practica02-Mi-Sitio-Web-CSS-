@@ -43,11 +43,11 @@ Finalmente, se pide que en toda la práctica existan al menos 50 reglas CSS.
  3. Al finalizar la práctica se debe validar todas las páginas HTML y hojas de estilos CSS creadas usando el W3C Validator. 
  4. Luego, se debe crear el archivo README del repositorio de GitHub. 
  5. Generar informe de los resultados en el formato de prácticas. Debe incluir:
-     a. El desarrollo de cada uno de los puntos antes descritos así como las reglas CSS utilizadas para resolver cada punto.
-     b. La evidencia del correcto diseño de las páginas HTML usando CSS. Para lo cuál, se puede generar fotografías instantáneas     (pantallazos).  
-     c. La evidencia de la validación de cada página HTML. 
-     d. La evidencia de la validación de las hojas de estilos CSS. 
-     e. El informe debe incluir conclusiones apropiadas.  
-     f. En el informe se debe incluir la información de GitHub (usuario y URL del repositorio de la práctica). 
-     g. En el informe se debe incluir la firma digital del estudiante. 
+     * El desarrollo de cada uno de los puntos antes descritos así como las reglas CSS utilizadas para resolver cada punto.
+     * La evidencia del correcto diseño de las páginas HTML usando CSS. Para lo cuál, se puede generar fotografías instantáneas     (pantallazos).  
+     * La evidencia de la validación de cada página HTML. 
+     * La evidencia de la validación de las hojas de estilos CSS. 
+     * El informe debe incluir conclusiones apropiadas.  
+     * En el informe se debe incluir la información de GitHub (usuario y URL del repositorio de la práctica). 
+     * En el informe se debe incluir la firma digital del estudiante. 
  6. En el archivo README del repositorio debe constar la misma información del informe de resultados de la práctica que se indica en el punto anterior. 
