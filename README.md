@@ -9,6 +9,7 @@
   Con base a la *Práctica 01 - Resolución de problemas sobre HTML5*, se pide  utilizar estilos CSS con la finalidad de obtener un diseño como el que se muestra a continuación. 
   
  ![Estructura](http://dis.um.es/~lopezquesada/documentos/IES_1213/LMSGI/curso/UT5/libroswebcss/www.librosweb.es/img/css/f1210.gif)
+ <Figura 1. Diseño base del sitio we>
  
  Para lo cuál, se recomienda utilizar, en al menos una página HTML, un diseño a dos columnas con cabecera y pie de página, como el que se muestra en la Figura 2. Así, como también se recomienda utilizar, en al menos una página HTML, un diseño a tres columnas con cabecera y pie de página como se muestra en la Figura 3. 
  
